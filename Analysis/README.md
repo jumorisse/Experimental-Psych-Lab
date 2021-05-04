@@ -1,5 +1,5 @@
 # Analysis
-### Content
+## Content
 This folder contains all scripts used to preprocess, visualize or analyze experimental data.
-### Files
+## Files
 01_preprocessing-data.R   : Exemplary file to show naming convention
